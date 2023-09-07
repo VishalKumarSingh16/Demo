@@ -1,3 +1,4 @@
 # Demo
 This is my first Git Repository
-Author-->Vishal Singh
+<br>
+Author-Vishal Singh
